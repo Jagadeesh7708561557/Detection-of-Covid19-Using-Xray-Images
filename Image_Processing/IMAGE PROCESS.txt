@@ -1,0 +1,4 @@
+Image Enhancement - CNN Model
+Image Restoration -Denoising using pytorch
+Image Compression - DWT
+Image Segmentation - k-means clustering
